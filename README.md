@@ -23,6 +23,12 @@
  * Actionable Item 2:
      * Users have the ability to provide personal information or other's personal information or fake personal information. A government-issued identification may be asked to upload specific information or number to secure that such individual will provide authentic information about him/herself(e.g. Passport details, credit card details,driver license,etc.)        
 
+### Principle 3 - Source of Personal Information
+
+* Consider 1:
+    * How are we going to ensure that the user will be aware of the his/her personal information has been collected; the purpose for which the information is being collected; the intended recipients of the information; the name and address of the agency collecting and holding the information; the consequences for that user if all or any part of the requested information is not provided; the right to access to, and correction of, information provided by the Information Privacy Principle.
+* Actionable Item 1:
+    * A detailed information about the collection and holding of personal details must be provided for easy access to the user.
 
 ## Privacy Policy 
 
