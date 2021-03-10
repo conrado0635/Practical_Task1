@@ -67,4 +67,4 @@
 
 3. Write Privacy Policy (generate one)
 
- * [ ] Task incomplete.
+ * [see link](https://github.com/conrado0635/Practical_Task1/blob/add-generated-privacy-policy/Office%20of%20the%20Privacy%20Commissioner%20_%20Privacy%20Statement%20Generator.pdf) 
