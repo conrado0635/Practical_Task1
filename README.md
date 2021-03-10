@@ -29,6 +29,20 @@
     * How are we going to ensure that the user will be aware of the his/her personal information has been collected; the purpose for which the information is being collected; the intended recipients of the information; the name and address of the agency collecting and holding the information; the consequences for that user if all or any part of the requested information is not provided; the right to access to, and correction of, information provided by the Information Privacy Principle.
 * Actionable Item 1:
     * A detailed information about the collection and holding of personal details must be provided for easy access to the user.
+* Consider 2:
+    * How are we going to ensure that individual or user can avail their rights of access to, and correction of, information.
+* Actionable Item 2:
+    * There mus be a section that allow access for users to easily look into their information and update such.
+    
+### Principle 4 - Manner of Collection 
+* Consider 1:
+    * How are we going to ensure that collection of personal information is within the lawful means?
+* Actionable Item 2:
+    * The age of the individual must be ascertained. If the individual is at legal age, the consent of parent or guardian is needed?
+* Consider 2:
+    * How are we going ensure that such personal information we need will not intrude to an unreasonable extent upon personal affairs of the individul concerned?
+* Actionable Item 2:
+    * We need to limit the important details from individual's personal information. We need to limit what information must be mandatory asked and collected.        
 
 ## Privacy Policy 
 
