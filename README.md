@@ -1,5 +1,5 @@
 # Practical Task 1: IT and Law
-
+<!-- Kia ora for you mahi in this assignment, this is great work and quite ok to submit. Cheers-->
 ## Privacy Checklist 
 ### Principle 1: Purpose of collection of personal information.
 * Consider 1:
