@@ -68,7 +68,7 @@
 
 3. Write Privacy Policy (generate one)
 
- * [see link](https://github.com/conrado0635/Practical_Task1/blob/add-generated-privacy-policy/Office%20of%20the%20Privacy%20Commissioner%20_%20Privacy%20Statement%20Generator.pdf) 
+ * [Privacy Policy](https://github.com/conrado0635/Practical_Task1/blob/add-generated-privacy-policy/Office%20of%20the%20Privacy%20Commissioner%20_%20Privacy%20Statement%20Generator.pdf) 
  * 
 4. "Publish"
 
@@ -81,11 +81,11 @@ In the privacy policy, at the face of the site or upon clicking the word “Priv
 The input of personal information and saving their application is already an implied consent to collect the user or individual’s personal information. However, the website may choose to acquire the consent of the user or individual by asking that he/she is giving her consent to submit his/her personal information. The privacy policy will confirm that the personal information submitted by the individual or user is his/her personal information and that such will be used for the basis of his/her online New Zealand passport application and consequently will appear in his/her New Zealand passport.
 
 * On Collection of Information from Subject
-The privacy policy will ensure that the individual or user will be aware of the fact that his or her personal information has been collected; the purpose for which the information is being collected; the intended recipients of the information; the name and address of the agency collecting and holding the information; the consequences for that individual if all or any part of the requested information is not provided; the rights of access to, and correction of, information provided by the IPPs.
+The privacy policy will ensure that the individual or user will be aware of the fact that his or her personal information has been collected; the purpose for which the information is being collected; the intended recipients of the information; the name and address of the agency collecting and holding the information.
 
 * On Manner of Collection of Personal Information
 The privacy policy will ensure that the collection of personal information is within the lawful means. The age of the individual must be ascertained and adult versus minor will be separated with distinction. If the individual or user is young, the consent of the parent or guardian will be required and it will be the guardian or the parent who will submit such personal information of the minor or young instead. Some personal information will be tagged as mandatory to provide while others will be needed for better assurance of the outcome of the application of New Zealand passport
 
 * On Storage and Security of Personal Information
-The privacy policy provides the user or individual that security that the information provided is protected against loss, access, use, modification or disclosure that is not authorised by the agency, and other misuse. The company will ensure that information is stored and secured free from hackers and invaders. The privacy policy will also provide that in case of loss, access, use, modification or disclosure or other misuse, such information will be retrieved and the perpetrator will face criminal and civil punishments under specific laws. The privacy policy also provides that there is a secured back up storage and partner reputable shredder company to destroy document if needed.
+The privacy policy provides the user or individual that security that the information provided is protected against loss, access, use, modification or disclosure that is not authorised by the agency, and other misuse. The company will ensure that information is stored and secured free from hackers and invaders,provide highest level of protection and protected by latest anti-virus/malware. The privacy policy will also provide that in case of loss, access, use, modification or disclosure or other misuse, such information will be retrieved and the perpetrator will face criminal and civil punishments under specific laws. The privacy policy also provides that there is a secured back up storage and partner reputable shredder company to destroy document if needed.
 
