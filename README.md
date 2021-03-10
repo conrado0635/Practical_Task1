@@ -32,7 +32,7 @@
 * Consider 2:
     * How are we going to ensure that individual or user can avail their rights of access to, and correction of, information.
 * Actionable Item 2:
-    * There mus be a section that allow access for users to easily look into their information and update such.
+    * There must be a section that allow access for users to easily look into their information and update such.
     
 ### Principle 4 - Manner of Collection 
 * Consider 1:
