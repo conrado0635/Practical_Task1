@@ -42,7 +42,19 @@
 * Consider 2:
     * How are we going ensure that such personal information we need will not intrude to an unreasonable extent upon personal affairs of the individul concerned?
 * Actionable Item 2:
-    * We need to limit the important details from individual's personal information. We need to limit what information must be mandatory asked and collected.        
+    * We need to limit the important details from individual's personal information. We need to limit what information must be mandatory asked and collected.
+    * 
+### Principle 5 - Storage and Security of Personal Information
+
+* Consider 1:
+    * How are we going to ensure that the information provided is protected against loss, access, use, modification or disclosure that is not authorised by the agency.
+* Actionable Item 1:
+    * The company must make sure that information must be stored and secured free from hackers and invaders.
+* Consider 2:
+    * How are we going to ensure that in case of loss, access, use, modification or disclosure we can retrieve information.
+* Actionable Item 2:
+    * We  must develop a back-up storage.    
+
 
 ## Privacy Policy 
 
