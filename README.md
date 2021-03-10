@@ -62,7 +62,8 @@
 
 1. Website based  [www.passport.govt.nz](www.passport.govt.nz)
 
-2. Upon opening the Passport website, your main goal was already clickable, question and your possible choosen answer will direct to another question or will request for information, until all required information from the user has been provided. The website is user-friendly and can save, retrieve, edit and submit passport application. The company, privacy, security, and intellectaul property details are provided in the lower portion of the website.
+2. Upon opening the Passport website, your main goal was already clickable, question and your possible choosen answer will direct to another question or will request for information, until all required information from the user has been provided. The website is user-friendly and can save, retrieve, edit and submit passport application. The company, privacy, security, and intellectual property details are provided in the lower portion of the website.
+  * The type of data being collected are: Personal Data,Physical Attributes Data, Place of delivery of the passport, Payment/Financial Data
 
 
 3. Write Privacy Policy (generate one)
